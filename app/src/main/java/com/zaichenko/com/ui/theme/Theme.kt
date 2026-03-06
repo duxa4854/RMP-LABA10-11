@@ -101,6 +101,7 @@ fun Laba1011Theme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
+        shapes = Shapes,
         content = content
     )
 }
